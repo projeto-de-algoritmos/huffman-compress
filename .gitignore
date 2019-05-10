@@ -1,0 +1,6 @@
+lena.bin
+lena_decompressed.ppm
+env
+.vscode
+__pycache__
+.ipynb_checkpoints
