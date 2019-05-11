@@ -1,5 +1,8 @@
 lena.bin
 lena_decompressed.ppm
+github.png
+github.bin
+github_decompressed.png
 env
 .vscode
 __pycache__

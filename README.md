@@ -1,5 +1,9 @@
 # Huffman Compress
 
+Para testar o algoritmo de Huffman foram criados métodos para compactar e descompactar arquivos.
+
+O exemplo utilizado aqui é a compactação e descompactação de imagens do formato PPM e do formato PNG.
+
 ## Autores
 
 | Nomde | github |
